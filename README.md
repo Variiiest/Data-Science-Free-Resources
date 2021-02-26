@@ -58,10 +58,11 @@ Free Resources For Data Science
 
 20: Udacity= https://www.udacity.com/course/intro-to-machine-learning--ud120
 
+#### Statistics
+21: Udacity= https://www.youtube.com/watch?v=_K8UpLKAVxY&list=PLAwxTw4SYaPnYdzOgKRoTNYwmvjUDH_pt
 
 
-
-###Suggest Other Free Resources 
+### Suggest Other Free Resources 
 
 
 
